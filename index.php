@@ -22,7 +22,7 @@
         <td> $row[id] </td>
         <td> $row[name] </td>
         <td> $row[lastname] </td>
-        <td> </td>
+        <td> <a href='#'>Editar</a> | <a href='#'>Eliminar</a> </td>
         <tr>";
     }
     ?>
